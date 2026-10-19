@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+neo4j_data/
+AI Engineer Assignment - MyNaksh (2).pdf
