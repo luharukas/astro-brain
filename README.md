@@ -1,4 +1,4 @@
-# MyNaksh: Personalized Astrology Chat with Shared Brain
+# Personalized Astrology Chat with Shared Brain
 
 Conversational AI service with a persistent **Shared Brain** (Neo4j graph) for personalized astrology responses across sessions.
 
